@@ -22,7 +22,7 @@ Keyboard, Touchpad, Wifi, Sleep, Screen Brightness, Sound all work if you do the
 ## Sound
 Copy the fw_sst* files to /lib/firmware/intel/
 
-Copy the asound.state to /var/lib/alsa.asound.state
+Copy the asound.state to /var/lib/alsa/asound.state
 
 Reboot
 
